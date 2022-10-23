@@ -6,5 +6,5 @@ Week 1: Lab00
 - Activity Diagram
 
 Week 2:
-- File Ashta
+- File Astah
 - SRS
