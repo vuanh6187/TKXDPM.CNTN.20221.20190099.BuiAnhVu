@@ -2,12 +2,15 @@
 
 Week 1: Lab00
 
-Use case
-Activity Diagram
+- Use case
+- Activity Diagram
 
-Week 2: Lab00
-
-File Astah
-SRS
+Week 2:
+- File Astah
+- SRS
 
 Week 3: Lab03
+
+- Communication Diagram
+- Sequence Diagram
+- State Machine Diagram
