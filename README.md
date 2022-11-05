@@ -16,3 +16,7 @@ Week 3: Lab03
 - State Machine Diagram
 
 Week 4: Lab04
+
+- Construct and Design UI
+- File fxml
+- Screen specification
